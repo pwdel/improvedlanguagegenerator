@@ -1,5 +1,9 @@
 # improvedlanguagegenerator
 
+Overall Transformers Documentation On Topic
+
+https://huggingface.co/transformers/training.html
+
 
 Fine Turning Based off of GPT2
 
@@ -8,3 +12,5 @@ https://towardsdatascience.com/train-a-gpt-2-transformer-to-write-harry-potter-b
 Training From Scratch with BERT
 
 https://huggingface.co/blog/how-to-train
+
+
