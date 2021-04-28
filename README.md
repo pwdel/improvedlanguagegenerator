@@ -17,3 +17,7 @@ https://huggingface.co/blog/how-to-train
 Colab Notebook - GPT2 for Custom Language Generation
 
 https://colab.research.google.com/drive/1KfxYCah3Ku_xc7T-rYjPEevaczVFf03J
+
+How to GPT2
+
+https://minimaxir.com/2019/09/howto-gpt2/
